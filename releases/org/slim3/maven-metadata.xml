@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Archetype - slim3-archetype-profiled-quickstart</name>
+      <prefix>slim3-archetype-profiled-quickstart</prefix>
+      <artifactId>slim3-archetype-profiled-quickstart</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
