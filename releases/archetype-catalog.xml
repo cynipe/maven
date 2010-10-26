@@ -8,7 +8,7 @@
       <artifactId>slim3-archetype-profiled-quickstart</artifactId>
       <version>1.0.5.2</version>
       <description>Archetype - slim3-archetype-profiled-quickstart</description>
-      <repository>http://github.com/cynipe/maven/raw/master/releases</reposi3tory>
+      <repository>http://github.com/cynipe/maven/raw/master/releases</repository>
     </archetype>
   </archetypes>
 </archetype-catalog>
